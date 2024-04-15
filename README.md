@@ -4,7 +4,7 @@ This repository contains Python programs for various simple tasks.
 Programs Included:
 Add Two Numbers:
 
-File:1. add_numbers.py
+File:1. Write a Python program to add two numbers.py
 Description: Python program to add two numbers and print the result.
 Find Substring in a String:
 
