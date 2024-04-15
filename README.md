@@ -4,23 +4,24 @@ This repository contains Python programs for various simple tasks.
 Programs Included:
 Add Two Numbers:
 
-File: add_numbers.py
+File:1. add_numbers.py
 Description: Python program to add two numbers and print the result.
 Find Substring in a String:
 
-File: find_substring.py
+File: 2. Write a Python program to find a substring in a string.py
 Description: Python program to find a substring in a given string.
 Find Index of an Element in a List:
 
-File: find_index.py
+File: 3. Write a Python program to find the index of an element in a list.py
 Description: Python program to find the index of an element in a list.
 Find Keys in a Dictionary:
 
-File: find_keys.py
+File: 4. Write a Python program to find the keys in a dictionary.py
 Description: Python program to find the keys in a dictionary.
 Check Number Sign:
 
-File: check_number_sign.py
+File:5. Write a Python program to find the keys in a dictionary.
+py
 Description: Python program that uses an if-elif-else statement to check if a number is positive, negative, or zero.
 How to Use:
 Clone the repository to your local machine.
